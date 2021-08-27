@@ -8,7 +8,7 @@ import { NavTheme } from "../widgets/Menu/types";
 import { ModalTheme } from "../widgets/Modal/types";
 import { Colors, Breakpoints, MediaQueries, Spacing, Shadows, Radii, ZIndices } from "./types";
 
-export interface SwapTheme {
+export interface PancakeTheme {
   siteWidth: number;
   isDark: boolean;
   alert: AlertTheme;
